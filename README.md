@@ -19,4 +19,4 @@ Brief description of what the assignment is about:
 
 ## 🚀 How to Run
 
-Intelligent-System-Design-Assignment-01
+Intelligent-System-Design-Assignment-02
