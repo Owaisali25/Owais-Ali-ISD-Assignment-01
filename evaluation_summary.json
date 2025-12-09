@@ -1,0 +1,17 @@
+{
+  "rule": {
+    "accuracy": 0.7809076682316118,
+    "precision": 0.1390728476821192,
+    "recall": 0.6774193548387096,
+    "f1": 0.23076923076923078
+  },
+  "rf": {
+    "accuracy": 0.9507042253521126,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "dl": {
+    "error": "No module named 'tensorflow'"
+  }
+}
